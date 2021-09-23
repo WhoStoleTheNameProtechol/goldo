@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="skimp.png"><SubTexture name="skimp idle0000" x="0" y="0" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp idle0001" x="573" y="0" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp idle0002" x="1146" y="0" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp idle0003" x="1719" y="0" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp idle0004" x="0" y="679" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp idle0005" x="573" y="679" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp left0000" x="1146" y="679" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp left0001" x="1719" y="679" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp left0002" x="0" y="1358" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp right0000" x="573" y="1358" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp right0001" x="1146" y="1358" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp right0002" x="1719" y="1358" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp down0000" x="0" y="2037" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp down0001" x="573" y="2037" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp down0002" x="1146" y="2037" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp up0000" x="1719" y="2037" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp up0001" x="0" y="2716" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+<SubTexture name="skimp up0002" x="573" y="2716" width="573" height="679" frameX="0" frameY="0" frameWidth="573" frameHeight="679" />
+</TextureAtlas>
